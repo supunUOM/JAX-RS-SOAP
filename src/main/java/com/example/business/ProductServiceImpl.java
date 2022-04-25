@@ -13,7 +13,7 @@ public class ProductServiceImpl {
 
     public ProductServiceImpl() {
         bookList.add("Inferno");
-        bookList.add("Joyland");
+        bookList.add("ToyLand");
         bookList.add("The Game of Thrones");
 
         musicList.add("Random Access Memories");
